@@ -1,116 +1,114 @@
 {
-    "contacts":
-
-[
-    {
-      "id": 1,
-      "name": "Adam White",
-      "email": "adam@email.com",
-      "address": {
-        "street": "Java Lane",
-        "city": "Objectville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 2,
-      "name": "Bob Brown",
-      "email": "bob@email.com",
-      "address": {
-        "street": "See Sharp",
-        "city": "Dotnetville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 3,
-      "name": "Carol Green",
-      "email": "carol@email.com",
-      "address": {
-        "street": "Ecma",
-        "city": "Nodesville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 4,
-      "name": "Doug Orange",
-      "email": "doug@email.com",
-      "address": {
-        "street": "Hyper",
-        "city": "Domsville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 5,
-      "name": "Edward Grey",
-      "email": "edward@email.com",
-      "address": {
-        "street": "Python",       
-        "city": "Montyville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 6,
-      "name": "Frank Purple",
-      "email": "frank@email.com",
-      "address": {
-        "street": "Rust",
-        "city": "Oxville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 7,
-      "name": "Gary Blue",
-      "email": "gary@email.com",
-      "address": {
-        "street": "Go",
-        "city": "Goneville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 8,
-      "name": "Harry Yellow",
-      "email": "harry@email.com",
-      "address": {
-        "street": "Sequal",
-        "city": "Serverville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 9,
-      "name": "Iana Pink",
-      "email": "iana@email.com",
-      "address": {
-        "street": "Cascade",
-        "city": "Styleville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    },
-    {
-      "id": 10,
-      "name": "Jason Black",
-      "email": "jason@email.com",
-      "address": {
-        "street": "Assembly",
-        "city": "Bitsville",
-        "postcode":"1234"
-      },
-      "phone": "123456789"
-    }
-  ]
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Adam White",
+            "email": "adam@email.com",
+            "address": {
+                "street": "Java Lane",
+                "city": "Objectville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 2,
+            "name": "Bob Brown",
+            "email": "bob@email.com",
+            "address": {
+                "street": "See Sharp",
+                "city": "Dotnetville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 3,
+            "name": "Carol Green",
+            "email": "carol@email.com",
+            "address": {
+                "street": "Ecma",
+                "city": "Nodesville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 4,
+            "name": "Doug Orange",
+            "email": "doug@email.com",
+            "address": {
+                "street": "Hyper",
+                "city": "Domsville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 5,
+            "name": "Edward Grey",
+            "email": "edward@email.com",
+            "address": {
+                "street": "Python",
+                "city": "Montyville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 6,
+            "name": "Frank Purple",
+            "email": "frank@email.com",
+            "address": {
+                "street": "Rust",
+                "city": "Oxville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 7,
+            "name": "Gary Blue",
+            "email": "gary@email.com",
+            "address": {
+                "street": "Go",
+                "city": "Goneville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 8,
+            "name": "Harry Yellow",
+            "email": "harry@email.com",
+            "address": {
+                "street": "Sequal",
+                "city": "Serverville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 9,
+            "name": "Iana Pink",
+            "email": "iana@email.com",
+            "address": {
+                "street": "Cascade",
+                "city": "Styleville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        },
+        {
+            "id": 10,
+            "name": "Jason Black",
+            "email": "jason@email.com",
+            "address": {
+                "street": "Assembly",
+                "city": "Bitsville",
+                "postcode": "1234"
+            },
+            "phone": "123456789"
+        }
+    ]
 }
